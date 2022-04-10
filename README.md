@@ -1,7 +1,3 @@
-# Carrefour Web Developer - DIO
+# Exemplo Dark Mode
 
-![Logo](./imagens/CarrefourWebDeveloper-LOGO.png)
-
-Neste repositório estão organizadas as atividades feitas no Bootcamp Carrefour Web Developer, feito na plataforma DIO.
-
-As atividades estão organizadas em branchs, sendo que o branch Main contém o índice das atividades.
+Exemplo de uso de modo escuro, utilizando Javascript para trocar entre modo claro e escuro, manipulando as classes e valores de texto.
