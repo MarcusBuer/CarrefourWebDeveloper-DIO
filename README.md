@@ -1,7 +1,4 @@
-# Carrefour Web Developer - DIO
+# Netflix Clone
 
-![Logo](./imagens/CarrefourWebDeveloper-LOGO.png)
-
-Neste repositório estão organizadas as atividades feitas no Bootcamp Carrefour Web Developer, feito na plataforma DIO.
-
-As atividades estão organizadas em branchs, sendo que o branch Main contém o índice das atividades.
+Clone da interface do Netflix, feito em HTML+CSS+JS.
+Feito acompanhando o bootcamp Carrefour Web Developer na DIO.
